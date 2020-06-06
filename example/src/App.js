@@ -1,10 +1,10 @@
 import React from 'react'
 
 import {
-  HeadingIndicator,
   Airspeed,
   Altimeter,
   AttitudeIndicator,
+  HeadingIndicator,
   TurnCoordinator,
   Variometer
 } from 'react-flight-indicators'
@@ -17,7 +17,7 @@ const App = () => {
 
         <p>The following flight indicators are available:</p>
       </div>
-      
+
       <hr />
       <HeadingIndicator heading={Math.random() * 360} showBox={false} />
 
