@@ -1,10 +1,10 @@
 {
   "name": "react-flight-indicators",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A set of flight indicators for use with React",
   "author": "corstian",
   "license": "GPL-3.0",
-  "repository": "corstian/react-flight-indicators",
+  "repository": "skyhop/react-flight-indicators",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
